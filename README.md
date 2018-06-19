@@ -81,7 +81,7 @@ Iteration: 10 1 0.000168
 Iteration: 11 1 0.000108
 Iteration: 12 0 0.000106
 Matching Done....!!
-# of Iteration: 12
+Iterations: 12
 Initialization Time: 0.006812
 Matching Time: 0.009305
 Total Time: 0.016117
