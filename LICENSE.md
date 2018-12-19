@@ -1,16 +1,3 @@
-// ***********************************************************************
-//
-//            A C++ library for shared-memory graph b-Matching 
-//                  using OpenMP
-// 
-//               Arif Khan (ariful.khan@pnnl.gov)
-//               Mahantesh Halappanavar (hala@pnnl.gov)
-//               Pacific Northwest National Laboratory       
-//
-//               Alex Pothen (apothen@purdue.edu)
-//               Purdue University
-//
-// ***********************************************************************
 BSD 3-Clause License
 
 Copyright (c) 2018, Battelle Memorial Institute
@@ -40,3 +27,13 @@ SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
 CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+// A C++ library for shared-memory graph b-Matching 
+// using OpenMP
+// 
+// Arif Khan (ariful.khan@pnnl.gov)
+// Mahantesh Halappanavar (hala@pnnl.gov)
+// Pacific Northwest National Laboratory       
+//
+// Alex Pothen (apothen@purdue.edu)
+// Purdue University
